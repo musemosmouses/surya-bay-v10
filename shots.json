@@ -1,0 +1,24 @@
+{
+  "shots": [
+    {
+      "description": "Police chase at wanted level 3 along the harbor road in a storm — rain, heli AIR ONE overhead, dispatch panel with live callsigns, sea and moored boats in frame",
+      "name": "1-chase.jpg",
+      "query": "?shot=1"
+    },
+    {
+      "description": "Boat chase at sea: a hot Harbor Delivery run with a crate aboard, wanted level 2, two marine-police boats closing in, rain and high tide",
+      "name": "2-boat.jpg",
+      "query": "?shot=2"
+    },
+    {
+      "description": "Street race in the rain: driving toward the first pink gate at speed on slick roads, wanted level 2, race timer on the HUD",
+      "name": "3-drive.jpg",
+      "query": "?shot=3"
+    },
+    {
+      "description": "Start screen over a live view of the city at high tide with the minimap",
+      "name": "4-menu.jpg",
+      "query": "?shot=4"
+    }
+  ]
+}
